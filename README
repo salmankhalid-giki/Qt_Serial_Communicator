@@ -1,0 +1,4 @@
+Opensource application for Serial Communication using Qt Framework. Easy to use GUI
+In Device Name just Enter "ttyUSBX" or "tty12" to open PORT
+Further enhancements, criticisms, tweaks etc are welcome
+Default BuadRate is 9600
